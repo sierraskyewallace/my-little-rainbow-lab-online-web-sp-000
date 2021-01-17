@@ -39,13 +39,3 @@ div {
   border-top-color: #d300c9;
 }
 
-<div id="red"> 
-     	      <div id="orange">
-             <div id="yellow">
-          <div id="green">
-            <div>	            <div id="blue">
-              <div>	              <div id="indigo">
-                <div></div> <!-- the grandest child div -->	                <div id="violet"></div> <!-- the grandest child div -->
-              </div>	              </div>
-            </div>	            </div>
-          </div>	          </div>
